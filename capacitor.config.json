@@ -1,0 +1,30 @@
+{
+  "appId": "com.quicksplit.app",
+  "appName": "QuickSplit",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000
+    },
+    "Camera": {
+      "presentationStyle": "fullscreen"
+    },
+    "Share": {
+      "shareTitle": "QuickSplit",
+      "shareSubject": "QuickSplit Summary"
+    },
+    "StatusBar": {
+      "style": "dark",
+      "backgroundColor": "#ffffff",
+      "overlaysWebView": false
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}
+
