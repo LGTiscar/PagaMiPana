@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">QuickSplit</string>
+    <string name="title_activity_main">QuickSplit</string>
+    <string name="package_name">com.quicksplit.app</string>
+    <string name="custom_url_scheme">com.quicksplit.app</string>
+</resources>
